@@ -15,8 +15,6 @@ To write a Python program to print the following integer literals: 123, 456, 789
 # Reg.No-212222060200
 # Name-Pradeep M
 # Write your code here
-```
-```
 num1 = 123
 num2 = 456
 num3 = 789
